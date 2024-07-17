@@ -24,7 +24,9 @@ Dedicated programmer with a B.Tech in Information Technology. Proficient in Java
 
 ## Projects:
 
-- **Basic Billing System:** [GitHub Repository](https://github.com/sheik4312/Basic-Billing-App-using-Flutter)
+- **Basic Billing App using Flutter:** [GitHub Repository](https://github.com/sheik4312/Basic-Billing-App-using-Flutter)
+- **Bluetooth Attendance System-App-using-Flutter:** [GitHub Repository](https://github.com/sheik4312/Bluetooth-Attendance-System-Teachers-App-)
+- **Bluetooth Attendance System-App-using-Flutter** [GitHub Repository](https://github.com/sheik4312/Bluetooth-Attendance-System-Student-App-)
 
 ---
 
