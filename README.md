@@ -7,7 +7,6 @@
 ## Contact Information:
 
 - **Email:** sheikoli020@gmail.com
-- **GitHub:** [sheik4312](https://github.com/sheik4312)
 - **HackerRank:** [@sheikoli020](https://www.hackerrank.com/@sheikoli020)
 - **LeetCode:** [sheik](https://www.leetcode.com/sheik)
 - **HackerEarth:** [@sheikoli020](https://www.hackerearth.com/@sheikoli020)
