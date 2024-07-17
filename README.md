@@ -8,7 +8,7 @@
 
 - **Email:** sheikoli020@gmail.com
 - **HackerRank:** [@sheikoli020](https://www.hackerrank.com/@sheikoli020)
-- **LeetCode:** [sheikoli020](https://www.leetcode.com/sheik)
+- **LeetCode:** [sheikoli020](https://www.leetcode.com/sheikoli020)
 - **HackerEarth:** [@sheikoli020](https://www.hackerearth.com/@sheikoli020)
 - **GeeksforGeeks:** [sheikotgdc](https://auth.geeksforgeeks.org/user/sheikotgdc)
 - **Discord:** [Join Here](https://discord.com/invite/Akr9grnM)
